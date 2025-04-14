@@ -1,0 +1,21 @@
+.compartida{
+    color: mediumslateblue;
+}
+
+p {
+    font-size: 10px;
+}
+
+p.compartida {
+    font-weight: bold;
+}
+
+p.texto{
+    color: crimson;
+}
+
+/*O directamente ignorando el enunciado apunto a clase borde*/
+div h2.borde{
+    border: 5px solid blue;
+    border-radius: 15px;
+}
